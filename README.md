@@ -1,3 +1,3 @@
-# hax-elements
+# lrndesign-elements
 
-Short for Headless Authoring Experience, HAX provides capabilities for tags to express how their properties can be modified in context. This effectively envisions web components that have the ability to invoke other web components to allow for correct property modification in place.
+These elements express concepts of the web visually. They encompass the visual style and output formats for the `lrn` ecosystem of tags. They also receive the wiring for `hax` elements meaning anything implementing (most) `lrndesign` prefixed tags have the connotations of `hax` baked into them.

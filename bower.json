@@ -1,16 +1,24 @@
 {
-  "name": "hax-elements",
+  "name": "lrndesign-elements",
   "authors": [
     "ELMSLN development team"
   ],
   "keywords": [
     "element-collection"
   ],
-  "license": "https://raw.githubusercontent.com/LRNWebComponents/hax-content/master/LICENSE.md",
+  "license": "https://raw.githubusercontent.com/LRNWebComponents/lrndesign-elements/master/LICENSE.md",
   "dependencies": {
-    "hax-behaviors": "LRNWebComponents/hax-behaviors",
-    "hax-content": "LRNWebComponents/hax-content",
-    "hax-editable": "LRNWebComponents/hax-editable",
-    "hax-editbar": "LRNWebComponents/hax-editbar"
+    "lrndesign-abbreviation": "LRNWebComponents/lrndesign-abbreviation",
+    "lrndesign-avatar": "LRNWebComponents/lrndesign-avatar",
+    "lrndesign-blockquote": "LRNWebComponents/lrndesign-blockquote",
+    "lrndesign-buttondialog": "LRNWebComponents/lrndesign-buttondialog",
+    "lrndesign-card": "LRNWebComponents/lrndesign-card",
+    "lrndesign-comment": "LRNWebComponents/lrndesign-comment",
+    "lrndesign-contentblock": "LRNWebComponents/lrndesign-contentblock",
+    "lrndesign-contentsequencer": "LRNWebComponents/lrndesign-contentsequencer",
+    "lrndesign-dialog": "LRNWebComponents/lrndesign-dialog",
+    "lrndesign-drawer": "LRNWebComponents/lrndesign-drawer",
+    "lrndesign-materialwordart": "LRNWebComponents/lrndesign-materialwordart",
+    "lrndesign-panelcard": "LRNWebComponents/lrndesign-panelcard"
   }
 }
