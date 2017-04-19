@@ -1,0 +1,16 @@
+{
+  "name": "hax-elements",
+  "authors": [
+    "ELMSLN development team"
+  ],
+  "keywords": [
+    "element-collection"
+  ],
+  "license": "https://raw.githubusercontent.com/LRNWebComponents/hax-content/master/LICENSE.md",
+  "dependencies": {
+    "hax-behaviors": "LRNWebComponents/hax-behaviors",
+    "hax-content": "LRNWebComponents/hax-content",
+    "hax-editable": "LRNWebComponents/hax-editable",
+    "hax-editbar": "LRNWebComponents/hax-editbar"
+  }
+}
